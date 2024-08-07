@@ -1,0 +1,15 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\bin\Debug\Slide7.exe.config
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\bin\Debug\Slide7.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\bin\Debug\Slide7.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\obj\Debug\Slide7.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\obj\Debug\Slide7.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\obj\Debug\Slide7.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\Slide7\obj\Debug\Slide7.pdb
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\obj\Debug\Slide7.csproj.AssemblyReference.cache
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\obj\Debug\Slide7.csproj.SuggestedBindingRedirects.cache
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\obj\Debug\Slide7.csproj.CoreCompileInputs.cache
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\obj\Debug\Slide7.exe
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\obj\Debug\Slide7.pdb
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\bin\Debug\Slide7.exe.config
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\bin\Debug\Slide7.exe
+D:\C #2\4. Tai Nguyen for GV & SV\Slide7\bin\Debug\Slide7.pdb

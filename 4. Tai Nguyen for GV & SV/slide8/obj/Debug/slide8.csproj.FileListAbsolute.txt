@@ -1,0 +1,7 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\obj\Debug\slide8.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\obj\Debug\slide8.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\bin\Debug\slide8.exe.config
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\bin\Debug\slide8.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\bin\Debug\slide8.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\obj\Debug\slide8.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#2\slide8\obj\Debug\slide8.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{434A0BEB-BD91-4487-A822-4DF9019EDD6B}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+		Studen.model.cs = Studen.model.cs
+		Student.model.cs = Student.model.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA4E6BD-8EE5-4EFE-980F-7089E964B958}
+	EndGlobalSection
+EndGlobal
